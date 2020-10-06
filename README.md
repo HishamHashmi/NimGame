@@ -1,6 +1,6 @@
 This is a basic Nim Game code developed in Python
 
-It ahs multiple funcitons:
+It has multiple funcitons:
 
 Nim_minimal, which returns the minimal legal move a person can make.
 Nim, which allows the humans to make a legal move.
